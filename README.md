@@ -6,7 +6,7 @@ Both the original version and the Türkçe-translated version are available for 
 
 If you encounter any problems, feel free to report them in the Issues section. I'll do my best to help.
 
-Enjoy the game!
+Enjoy the game ❤️
 
 thanks to
 TÜRKÇE Translation : https://sinnerclownceviri.net/konu/felvidek-tuerkce-yama-emre.8303/
