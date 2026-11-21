@@ -14,6 +14,8 @@ TÜRKÇE Translation : https://sinnerclownceviri.net/konu/felvidek-tuerkce-yama-
 
 Code: https://github.com/Chokage
 
+Official Game : https://store.steampowered.com/app/2299900/Felvidek/
+
 ![game](IMG-20261121-WA0015.jpg)
 
 
