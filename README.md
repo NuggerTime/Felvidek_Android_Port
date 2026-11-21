@@ -12,6 +12,8 @@ THANKS TO
 
 TÜRKÇE Translation : https://sinnerclownceviri.net/konu/felvidek-tuerkce-yama-emre.8303/
 
+FRANCE Translation : https://www.planete-aventure.net/forums/viewtopic.php?f=50&t=8829#p243125
+
 Code: https://github.com/Chokage
 
 Official Game : https://store.steampowered.com/app/2299900/Felvidek/
