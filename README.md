@@ -10,4 +10,5 @@ Enjoy the game!
 
 thanks to
 TÜRKÇE Translation : https://sinnerclownceviri.net/konu/felvidek-tuerkce-yama-emre.8303/
+
 Code: https://github.com/Chokage
