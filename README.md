@@ -1,5 +1,11 @@
 Felvidek Android Port
 
+![game](IMG-20261121-WA0015.jpg)
+
+Official Game : https://store.steampowered.com/app/2299900/Felvidek/
+
+(This is an unofficial port. If you enjoy the game, please consider supporting the original game)
+
 This port was created to make Felvidek playable on Android devices.
 
 the original version, Android Handheld version and the France/Türkçe-translated version are available for download.
@@ -16,11 +22,9 @@ FRANCE Translation : https://www.planete-aventure.net/forums/viewtopic.php?f=50&
 
 Code: https://github.com/Chokage
 
-Official Game : https://store.steampowered.com/app/2299900/Felvidek/
 
-(This is an unofficial port. If you enjoy the game, please consider supporting the original game)
 
-![game](IMG-20261121-WA0015.jpg)
+
 
 
 ![game](Screenshot_20261121_122658_Felvidek.jpg)
